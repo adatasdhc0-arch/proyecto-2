@@ -5,15 +5,17 @@
 }
 
 body{
-    background-color: rgba(31, 75, 3, 0.116);
+    background-color: rgb(136, 199, 96);
     min-height:100vh;
     padding:2rem;
     font-family:arial,helvetica, sans-serif;
  }
-y
  /* HEADER */
  header{
     text-align:center;
     margin-bottom:2rem;
  }
 
+ .cartel {
+    text-align: center;
+ }
